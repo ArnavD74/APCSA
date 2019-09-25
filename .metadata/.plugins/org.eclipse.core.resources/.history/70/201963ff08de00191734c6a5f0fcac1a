@@ -1,0 +1,21 @@
+
+public class StringBuilder {
+	
+	
+	public static void main(String[] args) {
+		
+		String d = "Desserts";
+		StringBuilder dessert = new StringBuilder(d);
+		System.out.println("The original string is: " + dessert.reverse().toString());
+
+		
+
+
+		
+		System.out.println("The new string is: " + dessert);
+
+
+		
+	}
+	
+}

@@ -1,0 +1,19 @@
+
+public class StringBuilder {
+
+	public static void main(String[] args) {
+		
+		String dessert = ("Desserts");
+		System.out.println("The original string is: " + dessert);
+
+		
+
+
+		
+		System.out.println("The new string is: " + dessert);
+
+
+		
+	}
+	
+}

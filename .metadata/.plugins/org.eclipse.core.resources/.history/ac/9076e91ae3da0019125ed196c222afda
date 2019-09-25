@@ -1,0 +1,16 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		String state = ("Mississippi");
+		System.out.println(state);
+		
+		state = state.replace("i", "ii");
+		int character = state.length();
+		System.out.println("Length is: " + character + ", " + state);
+		
+		
+	}
+	
+}

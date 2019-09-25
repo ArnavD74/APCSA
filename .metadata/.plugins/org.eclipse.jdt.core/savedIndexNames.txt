@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+C:\Users\arugo\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2875295466.index
+203544372.index
+324262991.index
+1905035054.index
+3901085332.index
+3282601303.index
+1240650157.index
+1270116340.index
+4109103432.index
+889525065.index
+2676155906.index
+845731664.index
+3031414209.index
+1107436511.index
+3864944294.index
+1683287257.index
+3697718908.index
+2786728495.index
+2213331422.index
+3674960485.index
+1018388322.index

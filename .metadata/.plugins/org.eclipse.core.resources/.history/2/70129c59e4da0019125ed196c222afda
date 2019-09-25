@@ -1,0 +1,15 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+	    String space = "          there is a space before and after this string.     ";
+	    System.out.println(space);
+	    System.out.println("");
+	    System.out.println("This is the new string after being trimmed:");
+	    space = space.trim();
+	    System.out.println(space);   
+		
+	}
+	
+}

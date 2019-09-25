@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;PracticeAssignment2_3/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;PracticeAssignment2_20&apos;&#x0D;&#x0A;- Destination element: &apos;PracticeAssignment2_3/src/(default package)&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     TwoSquareComponent.java&#x0D;&#x0A;     TwoSquareViewer.java" description="Copy compilation units" destination="=PracticeAssignment2_3/src&lt;" element1="/src&lt;{TwoSquareComponent.java" element2="/src&lt;{TwoSquareViewer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1569243703142" units="2" version="1.0"/>
+</session>
