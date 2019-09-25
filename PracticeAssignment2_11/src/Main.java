@@ -37,13 +37,10 @@ public class Main extends JComponent
    {
       JFrame frame = new JFrame();
       frame.setVisible(true);
-      
       frame.setSize(300, 400);
       frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-
       Main component = new Main();
       frame.add(component);
-
       frame.setVisible(true);
    }
 }
