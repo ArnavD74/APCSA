@@ -36,6 +36,7 @@ public class Main extends JComponent
       frame.setVisible(true);
       
       frame.setSize(300, 400);
+
       frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
       Main component = new Main();
