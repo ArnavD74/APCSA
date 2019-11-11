@@ -25,7 +25,6 @@ public class HelloViewer extends JComponent {
 		JFrame frame = new JFrame();
 
 		frame.setSize(1000, 1000);
-		frame.setTitle("Houses");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		HelloViewer component = new HelloViewer();
 		frame.add(component);

@@ -1,5 +1,6 @@
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
+import java.awt.geom.Ellipse2D;
 import java.awt.geom.Line2D;
 
 public class Hello {
@@ -31,31 +32,25 @@ public class Hello {
 	}
 	
 	public void LetterL1(Graphics2D g2) {
-		Line2D.Double seg1 = new Line2D.Double(90, 10, 90, 100);
-		Line2D.Double seg2 = new Line2D.Double(90, 100, 110, 100);
+		Line2D.Double seg1 = new Line2D.Double(110, 10, 110, 100);
+		Line2D.Double seg2 = new Line2D.Double(110, 100, 130, 100);
 
 		g2.draw(seg1);
 		g2.draw(seg2);
 	}
 	
 	public void LetterL2(Graphics2D g2) {
-		Line2D.Double seg1 = new Line2D.Double(10, 10, 10, 100);
-		Line2D.Double seg2 = new Line2D.Double(10, 60, 30, 60);
-		Line2D.Double seg3 = new Line2D.Double(30, 10, 30, 100);
+		Line2D.Double seg1 = new Line2D.Double(150, 10, 150, 100);
+		Line2D.Double seg2 = new Line2D.Double(150, 100, 170, 100);
 
 		g2.draw(seg1);
 		g2.draw(seg2);
-		g2.draw(seg3);	
 	}
 	
 	public void LetterO(Graphics2D g2) {
-		Line2D.Double seg1 = new Line2D.Double(10, 10, 10, 100);
-		Line2D.Double seg2 = new Line2D.Double(10, 60, 30, 60);
-		Line2D.Double seg3 = new Line2D.Double(30, 10, 30, 100);
+		Ellipse2D.Double o = new Ellipse2D.Double(190, 10, 30, 90);
 
-		g2.draw(seg1);
-		g2.draw(seg2);
-		g2.draw(seg3);	
+		g2.draw(o);
 	}
 
 
