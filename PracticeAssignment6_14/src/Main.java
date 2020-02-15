@@ -1,5 +1,7 @@
 import java.awt.Color;
 
+import Picture.Picture;
+
 public class Main {
 
 	public static void main(String[] args) {

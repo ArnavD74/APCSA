@@ -1,5 +1,7 @@
 import java.awt.Color;
 
+import Picture.Picture;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -18,7 +20,7 @@ public class Main {
 				} else
 					distanceConstant = pic.getWidth() / 2;
 
-				int distance = Math.sqrt(Math.pow(x - xCenter, 2) + Math.pow(y - yCenter, 2));
+				int distance = (int) Math.sqrt(Math.pow(x - xCenter, 2) + Math.pow(y - yCenter, 2));
 
 				if (distance > distanceConstant) {
 					pic.setColorAt(Color.BLACK, x, y);
