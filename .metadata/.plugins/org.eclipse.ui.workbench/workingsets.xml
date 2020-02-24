@@ -32,6 +32,7 @@
 <item elementID="=DoNow0206/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=DoNow0210/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=DoNow0212/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=DoNow0217/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=DoNow0925/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=DoNow1011/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=DoNow1104/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -50,6 +51,7 @@
 <item elementID="=HW1030/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=HwDueFeb13/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Minesweeper Duels/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Practice TEST 2D Arrays - Feb 18/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=PracticeAssignment1_16/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=PracticeAssignment1_17/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=PracticeAssignment1_18/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -333,11 +335,13 @@
 <item elementID="=ClassTester" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580998886575_17" label="Chapter 8" name="Chapter 8">
+<item elementID="=Practice TEST 2D Arrays - Feb 18" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=2D Arrays-Due Feb 10" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=ProgrammingProject7_8" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=ProgrammingProject7_9" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=GrayImage" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=DoNow0206" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=DoNow0217" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=HwDueFeb13" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=2DArrayTester" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
