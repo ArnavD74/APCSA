@@ -6,8 +6,16 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="currentR"/>
+		<item key="selection" value="double"/>
 		<list key="findhistory">
+			<item value="int"/>
+			<item value="@"/>
+			<item value="static"/>
+			<item value="invalid"/>
+			<item value="no winner"/>
+			<item value="&quot;F&quot;"/>
+			<item value="&quot;F&quot;)"/>
+			<item value="&quot;-&quot;"/>
 			<item value="cr"/>
 			<item value="play"/>
 			<item value="check"/>
@@ -15,18 +23,13 @@
 			<item value="is the winner"/>
 			<item value="System.exit"/>
 			<item value="System"/>
-			<item value="sum"/>
-			<item value="values"/>
-			<item value="COLUMNS"/>
-			<item value="ROWS"/>
-			<item value="import java.util.Scanner;"/>
-			<item value="r"/>
-			<item value="board"/>
-			<item value="rowTotal"/>
 		</list>
 		<list key="replacehistory">
-			<item value="currentR"/>
+			<item value="double"/>
 			<item value=""/>
+			<item value="free"/>
+			<item value="&quot;-&quot;"/>
+			<item value="currentR"/>
 			<item value="counter"/>
 			<item value="array"/>
 			<item value="columns"/>
@@ -37,16 +40,13 @@
 			<item value="Next account: "/>
 			<item value="animals"/>
 			<item value="input"/>
-			<item value="r"/>
-			<item value="middleArray"/>
-			<item value="max"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item key="DIALOG_X_ORIGIN" value="1155"/>
 		<item key="DIALOG_Y_ORIGIN" value="318"/>
-		<item key="DIALOG_WIDTH" value="284"/>
-		<item key="DIALOG_HEIGHT" value="388"/>
-		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="450"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI"/>
 	</section>
 </section>
