@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="double"/>
+		<item key="selection" value="beach"/>
 		<list key="findhistory">
+			<item value="beach"/>
 			<item value="int"/>
 			<item value="@"/>
 			<item value="static"/>
@@ -22,7 +23,6 @@
 			<item value="exit"/>
 			<item value="is the winner"/>
 			<item value="System.exit"/>
-			<item value="System"/>
 		</list>
 		<list key="replacehistory">
 			<item value="double"/>
