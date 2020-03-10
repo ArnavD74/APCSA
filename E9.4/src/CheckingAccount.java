@@ -41,6 +41,8 @@ public class CheckingAccount extends BankAccount {
 		b1.withdraw(50); // 100 - 50 = 50
 
 		b1.withdraw(60); // 50 - 60 = -10 - 20 = -30
+		
+		b1.withdraw(10); //-30 - 10 = -40 - 30 = -70
 
 		System.out.println(b1);
 
