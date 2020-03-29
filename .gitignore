@@ -1,6 +1,9 @@
 .metadata/
 .recommenders/
 Minesweeper Duels/
+/PIXLAB/*.gif
+/PIXLAB/*.db
+Thumbs.db
 /.metadata/
 /.recommenders/
 /Minesweeper Duels/
