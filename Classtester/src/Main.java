@@ -2,28 +2,16 @@ import java.util.Random;
 
 public class Main {
 
-	public static void printNums(int value, int numRounds) {
-				
-		Random r = new Random();
-		int random = r.nextInt(10);
-		
-		for (int i = 0; i <= numRounds; i++) {
-			
-			while (random != value) {
-				
-				random = r.nextInt(10);
-				System.out.print(random);
+	public static boolean substringFound(String phrase, String key, int index) {
 
-			}
-			
-			random = r.nextInt(10);
-			System.out.println();
-		}
+		String part = phrase.substring(index, index + key.length());
+		return part.equals(key);
+
 	}
 
 	public static void main(String[] args) {
 
-		printNums(5, 4);
+		System.out.println(substringFound("Horse", "Horse", 0));
 
 	}
 
