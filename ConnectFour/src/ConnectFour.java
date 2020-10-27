@@ -6,7 +6,6 @@ public class ConnectFour {
 	 * @author Arnav Dashaputra
 	 * @version 1.0
 	 * @since 2020-06-06
-	 * @return APCS Final Project
 	 * 
 	 *         If the game is not displaying dots in a grid correctly, please set
 	 *         change the commenting defining the public static string dot.
